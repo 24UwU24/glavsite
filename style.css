@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Architects+Daughter&family=Balsamiq+Sans&family=Caveat&family=Montserrat+Alternates:wght@100;400&family=Redressed&family=Reggae+One&family=Shizuru&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Architects+Daughter&family=Caveat&family=Montserrat+Alternates:wght@100;400&family=Redressed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Caveat&family=Montserrat+Alternates:wght@100;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Architects+Daughter&family=Caveat&family=Montserrat+Alternates:wght@100;400&family=Redressed&family=Shizuru&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Architects+Daughter&family=Caveat&family=Montserrat+Alternates:wght@100;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Architects+Daughter&family=Balsamiq+Sans&family=Caveat&family=Montserrat+Alternates:wght@100;400&family=Patrick+Hand&family=Redressed&family=Reggae+One&family=Shizuru&display=swap');
+
+header{
+    color:white;
+    display: flex;
+    text-align: center;
+    font-family: Akaya Telivigala;
+    margin:0;
+    background:linear-gradient(115deg,#03001e,#7303c0,#ec38bc,#fdeff9);
+    background-size: 200% 200%;
+    animation: gradien 10s ease infinite;
+}
+.himg{
+    height:70px;
+    width:70px;
+}
+nav{
+    background:linear-gradient(45deg,#03001e,#7303c0,#ec38bc,#fdeff9);
+    background-size: 200% 200%;
+    animation: gradien 10s ease infinite;
+}
+nav a{
+    font-family:Redressed;
+    margin:120px;
+    text-decoration: none;
+    color:black;
+    background-color:#F745B5;
+    border:1px solid pink;
+    border-radius: 20%;
+    font-size:20px;
+}
+h2{
+    text-align: center;
+    font-size:35px;
+}
+h3{ 
+       text-align: center;
+    font-size:35px;
+}
+main{
+    font-family:Montserrat Alternates;
+    font-size:20px;
+}
+main img{
+    width: 350px;
+    height: 350px;
+}
+h4{ 
+       text-align: center;
+    font-size:35px;
+}
+body{
+    background-color:#FEEFF8 ;
+}
+ @keyframes gradien{
+     0% {
+         background-position:0 50%;
+     }
+     50%{
+         background-position: 100% 50%;
+     }
+     100%{
+         background-position: 0 50%;
+     }
+ }
+footer{
+    text-align: center;
+    font-family: Akaya Telivigala;
+    margin:0;
+    background:linear-gradient(45deg,#03001e,#7303c0,#ec38bc,#fdeff9);
+    background-size: 200% 200%;
+    animation: gradien 10s ease infinite;
+}
+footer a{
+    margin:20px;
+    color:black;
+    text-decoration: none;
+    padding:5px;
+    
+}
+footer p{
+    text-align:Left;
+    color:white;
+    font-family:Balsamiq Sans;
+}
+footer img{
+    float:left;
+    width: 94px;
+    height: 94px;
+}
+.UwU{
+    font-family: Shizuru;
+    color:white;
+}
+.Soc{
+    font-family:Balsamiq Sans;
+    color:white;
+    font-size:21px;
+}
+footer p{
+    font-family: Patrick Hand;
+}
+.lid{
+    list-style: url(https://o.remove.bg/downloads/6e66dc81-a986-46ca-ba4b-040c6a38b736/imgonline-com-ua-Resize-0VpTomhHyZ3KAc8-removebg-preview.png);
+}
+.liy{
+    list-style:url(https://o.remove.bg/downloads/7c4dbc37-460a-496f-a77a-0a6ce178923d/imgonline-com-ua-Resize-cDaUGmxC6TJnbp3-removebg-preview.png);
+}
+.lim{
+    list-style: url(https://o.remove.bg/downloads/cad798b9-308b-4f25-bc1e-71bed27d9438/image-removebg-preview.png);
+}
+.lir{
+    list-style: url(https://o.remove.bg/downloads/f4a6d90a-477d-4c82-9d46-4a213989aa4c/image-removebg-preview.png);
+}
+.lip{
+    list-style: url(https://o.remove.bg/downloads/11195f5b-c666-4e50-ad37-af1a8a2f85b9/image-removebg-preview.png);
+}
+.lin{
+    list-style: url(https://o.remove.bg/downloads/df48b31a-7d8c-4ab7-be42-57b9d6828eed/image-removebg-preview.png);
+}
