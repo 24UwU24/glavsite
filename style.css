@@ -105,6 +105,8 @@ footer img{
 footer p{
     font-family: Patrick Hand;
 }
-.lia{
-    list-style:url(icons.svg);
+li{
+    list-style: url(icons.svg);
+    width: 16px;
+    height: 16px;
 }
